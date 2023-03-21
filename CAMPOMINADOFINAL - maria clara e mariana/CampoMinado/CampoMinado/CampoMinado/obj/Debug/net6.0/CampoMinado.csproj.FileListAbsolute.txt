@@ -1,0 +1,15 @@
+C:\Users\Maria Clara\Downloads\CampoMinado-main\CampoMinado\CampoMinado\CampoMinado\obj\Debug\net6.0\CampoMinado.csproj.AssemblyReference.cache
+C:\Users\Maria Clara\Downloads\CampoMinado-main\CampoMinado\CampoMinado\CampoMinado\obj\Debug\net6.0\CampoMinado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Clara\Downloads\CampoMinado-main\CampoMinado\CampoMinado\CampoMinado\obj\Debug\net6.0\CampoMinado.AssemblyInfoInputs.cache
+C:\Users\Maria Clara\Downloads\CampoMinado-main\CampoMinado\CampoMinado\CampoMinado\obj\Debug\net6.0\CampoMinado.AssemblyInfo.cs
+C:\Users\Maria Clara\Downloads\CampoMinado-main\CampoMinado\CampoMinado\CampoMinado\obj\Debug\net6.0\CampoMinado.csproj.CoreCompileInputs.cache
+C:\Users\Maria Clara\Downloads\CampoMinado-main\CampoMinado\CampoMinado\CampoMinado\bin\Debug\net6.0\CampoMinado.exe
+C:\Users\Maria Clara\Downloads\CampoMinado-main\CampoMinado\CampoMinado\CampoMinado\bin\Debug\net6.0\CampoMinado.deps.json
+C:\Users\Maria Clara\Downloads\CampoMinado-main\CampoMinado\CampoMinado\CampoMinado\bin\Debug\net6.0\CampoMinado.runtimeconfig.json
+C:\Users\Maria Clara\Downloads\CampoMinado-main\CampoMinado\CampoMinado\CampoMinado\bin\Debug\net6.0\CampoMinado.dll
+C:\Users\Maria Clara\Downloads\CampoMinado-main\CampoMinado\CampoMinado\CampoMinado\bin\Debug\net6.0\CampoMinado.pdb
+C:\Users\Maria Clara\Downloads\CampoMinado-main\CampoMinado\CampoMinado\CampoMinado\obj\Debug\net6.0\CampoMinado.dll
+C:\Users\Maria Clara\Downloads\CampoMinado-main\CampoMinado\CampoMinado\CampoMinado\obj\Debug\net6.0\refint\CampoMinado.dll
+C:\Users\Maria Clara\Downloads\CampoMinado-main\CampoMinado\CampoMinado\CampoMinado\obj\Debug\net6.0\CampoMinado.pdb
+C:\Users\Maria Clara\Downloads\CampoMinado-main\CampoMinado\CampoMinado\CampoMinado\obj\Debug\net6.0\CampoMinado.genruntimeconfig.cache
+C:\Users\Maria Clara\Downloads\CampoMinado-main\CampoMinado\CampoMinado\CampoMinado\obj\Debug\net6.0\ref\CampoMinado.dll
